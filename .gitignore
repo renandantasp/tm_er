@@ -1,0 +1,4 @@
+venv/*
+/sentiment_analysis/.ipynb_checkpoints
+/sentiment_analysis/cosine_similarity
+/files
