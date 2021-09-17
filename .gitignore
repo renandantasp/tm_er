@@ -1,5 +1,9 @@
+.ipynb_checkpoints
+.vscode
 venv/*
+tmp/
+topic_modeling/.ipynb_checkpoints
 /sentiment_analysis/.ipynb_checkpoints
 /sentiment_analysis/cosine_similarity
-/files
+/files/4mula*
 *.txt
