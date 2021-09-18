@@ -2,8 +2,10 @@
 .vscode
 venv/*
 tmp/
+cosine_similarity
 topic_modeling/.ipynb_checkpoints
 /sentiment_analysis/.ipynb_checkpoints
 /sentiment_analysis/cosine_similarity
 /files/4mula*
+/files/df.csv
 *.txt
