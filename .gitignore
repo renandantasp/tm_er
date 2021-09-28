@@ -4,8 +4,16 @@ venv/*
 tmp/
 cosine_similarity
 topic_modeling/.ipynb_checkpoints
+
 /sentiment_analysis/.ipynb_checkpoints
 /sentiment_analysis/cosine_similarity
-/files/4mula*
+/sentiment_analysis/cache_dir
+/sentiment_analysis/outputs
+/sentiment_analysis/runs
+/sentiment_analysis/regression
+
+/files/4mula_metadata.parquet
+/files/4mula_filtered.csv
 /files/df.csv
 *.txt
+/files/sentiment_dataset
