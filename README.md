@@ -1,4 +1,4 @@
-## Modelagem de Tópicoos e Reconheciemento de Emoção em Letras de Música e sua Relação com Outros Aspectos
+## Modelagem de Tópicos e Reconheciemento de Emoção em Letras de Música e sua Relação com Outros Aspectos
 ---
 
 > Esse trabalho visa aplicar técnicas de aprendizado de máquina e processamento de linguagem natural para extrair diferentes aspectos de letras de música em idiomas distintos, incluindo português brasileiro. Para isso serão utilizados modelos multilíngues de reconhecimento de emoções e modelagem de tópicos a fim de extrais esses aspectos.
