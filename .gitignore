@@ -15,5 +15,6 @@ topic_modeling/.ipynb_checkpoints
 /files/4mula_metadata.parquet
 /files/4mula_filtered.csv
 /files/df.csv
-*.txt
+stopwords.txt
+*.png
 /files/sentiment_dataset
